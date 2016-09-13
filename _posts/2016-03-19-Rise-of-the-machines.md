@@ -1,9 +1,7 @@
 ---
-published: false
+layout: post
+title: YRise of the machines!
 ---
-<!--t Rise of the Machines t-->
-<!--d  d-->
-
 ![Robots assembling cars]({{site.baseurl}}/images/20160319111303-RO_Haval_110922.jpg)
 
 
