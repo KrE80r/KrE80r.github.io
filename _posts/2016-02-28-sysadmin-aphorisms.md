@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Sysadmin Aphorisms
 ---
 <!--t Sysadmin Aphorisms t-->
 <!--d Credit for those thoughts goes to : Steve Stady and Seth Vidal do it the same, over and over and over again Backups are sacred! If you do not know if d-->
