@@ -2,14 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+**KrE80r** got familiar with PCs in an early age , had his share of text based internet , where he was inspired by giants like (Peter Norton, +ORC), which led him to learning more programing languages than spoken ones, generaly he enjoys setting up and breaking things.
