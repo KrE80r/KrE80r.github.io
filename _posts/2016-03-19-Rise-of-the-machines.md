@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YRise of the machines!
+title: Rise of the machines!
 ---
 ![Robots assembling cars]({{site.baseurl}}/images/20160319111303-RO_Haval_110922.jpg)
 
