@@ -12,7 +12,8 @@ This kind of hacks is not new , it goes back to the dawn of internet, back then 
 
 
 ### Now everything is smart!
-First what are these IoT devices ? , You know this "smart" TV, Tea kettle connected to your phone, "smart" door lock that shows you a video feed when someone knocks your door and "smart" cars etc... these are IoT devices .
+First what are these IoT devices ? , You know this "smart" TV, Tea kettle connected to your phone, "smart" door lock that shows you a video feed when someone knocks your door and "smart" cars etc... these are IoT devices, some argue that we have given internet hands and feet through IoT .
+
 Gartner estimates a typical household could contain more than 500 IoT Devices by 2022 ,but do we really need all these shit !? frankly I think NO ! 
 
 There are some factors which makes the IoT ecosystem catastrophic:
@@ -64,5 +65,16 @@ Yes, but needs huge efforst from all parties , I will try to list some here :
  - Deliver constant updates ([OTA](https://en.wikipedia.org/wiki/Over-the-air_programming) style) to their devices throughout their lifetime .
  
  **IoT Consumers:**
- - Up
+ - Only buy an IoT device from a manufacturer providing regular updates .
+ - Check for username/password reset functionalty .
+ - Check for the ability to disable telnet service.
+ - Check for the ability to disable SSH service.
+ - Check for the ability to change telnet/ssh port .
+ - Only buy an IoT device with backup/restore functionality .
+ 
+ 
+ ### Further reads :
+ 
+ [Security Economics of the Internet of Things](https://www.schneier.com/blog/archives/2016/10/security_econom_1.html)
+ [Europe to Push New Security Rules Amid IoT Mess](https://krebsonsecurity.com/2016/10/europe-to-push-new-security-rules-amid-iot-mess/)
  
