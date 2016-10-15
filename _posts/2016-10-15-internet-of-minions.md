@@ -56,21 +56,34 @@ Bottom line we are building very powerful things - yet most of them are useless 
 Yes, but needs huge efforts from all parties , I will try to list some here :
 
 **Governments:**
+
 - Establish policies and regulations for manufacturing, updating and importing IoT devices and their components.
+
 - Enforce polices on IoT manufacturers .
+
 - Monitor and penalize non-adhering IoT manufacturers .
 
 **IoT manufacturers:**
+
  - Adhere to government regulations .
+ 
  - Deliver constant updates ([OTA](https://en.wikipedia.org/wiki/Over-the-air_programming) style) to their devices throughout their lifetime .
  
+ 
 **IoT Consumers:**
+
  - Only buy an IoT device from a manufacturer providing regular updates .
+ 
  - Check for username/password reset functionality .
+ 
  - Check for the ability to disable telnet service.
+ 
  - Check for the ability to disable SSH service.
+ 
  - Check for the ability to change telnet/ssh port .
+ 
  - Only buy an IoT device with backup/restore functionality .
+ 
  
  ---
  
