@@ -12,17 +12,28 @@ This kind of hacks is not new , it goes back to the dawn of internet, back then 
 
 
 ### Now everything is smart!
-You have a "smart" TV, Tea kettle talking to your phone, door bell that shows you a video feed when someone knocks your door when you're not @ home etc... 
-Gartner estimates a typical household could contain more than 500 IoT Devices by 2022 ,Do we really need all these shit !?
+First what is these IoT devices ? , You know this "smart" TV, Tea kettle connected to your phone, door bell that shows you a video feed when someone knocks your door when you're not @ home and smart car etc... these are IoT devices .
+Gartner estimates a typical household could contain more than 500 IoT Devices by 2022 ,but do we really need all these shit !? frankly I think NO ! 
+
 There are some factors which makes the IoT ecosystem catastrophic:
 
 - The rapid growth of personal internet speed
 ![courtesy of xahlee.info]({{site.baseurl}}/images/internet_speed_growth.png)
 
-- IoT ecosystem has no framework for providing updates.
+- IoT vendors doesn't have proper framework to provide updates to their devices.
 
 - IoT average consumer doesn't know/care how to update his device (When was the last time you updated your router firmware ?)
 
-- IoT vendors use a defaut easy-to-guess passwords .
+- IoT vendors uses the same default easy-to-guess password on all their devices .
 
+
+These factors are the main contribuotrs making the whole situation a ticking bomb, but is it really that bad ? , what can hackers do with these IoT devices ?
+
+Well, a lot can be done, lets begin with the soft stuff :
+
+- DDos doh!, specially with these high speed connection we all have now, IoT minions once owned by a hacker can be used for his own or even rented, DDos-as-a-service .
+
+- SOCKS Proxies, hackers can use owend IoT devices to hack other machines online, so the attack will appear as if its coming from your home camera , hence your IP, and police will accuse you instead ! , once more the hacker can rent your devices to gain money .
+
+- 
 
