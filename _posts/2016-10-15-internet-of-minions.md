@@ -5,10 +5,10 @@ layout: post
    ## Internet Of Minions 
 ![CuAcbo9WEAAt8Ly.jpg]({{site.baseurl}}/images/CuAcbo9WEAAt8Ly.jpg)
 
-AKA internet-of-shit, AKA internet-of-hacked-things. IoT has been in the spotlight for a while now after [two](https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/) [consecutives](https://www.ovh.com/us/news/articles/a2367.the-ddos-that-didnt-break-the-camels-vac) DDoS incidents where IoT devices were the source of the attack, just to state the problem is little bit older, many experts did warn about the situation, it started with a small imapct, like a [fridge sending spam](http://www.bbc.com/news/technology-25780908) but now the situation is getting out of hand.
+AKA internet-of-shit, AKA internet-of-hacked-things. IoT has been in the spotlight for a while now after [two](https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/) [consecutive](https://www.ovh.com/us/news/articles/a2367.the-ddos-that-didnt-break-the-camels-vac) DDoS incidents where IoT devices were the source of the attack, just to state the problem is little bit older, many experts did warn about the situation, it started with a small impact, like a [fridge sending spam](http://www.bbc.com/news/technology-25780908) but now the situation is getting out of hand.
 
 ### A little bit of history
-This kind of hacks is not new , it goes back to the dawn of internet, back then devices were not "smart" yet hence the attack was mainly on PCs, trojans like [Sub7](https://en.wikipedia.org/wiki/Sub7) were a famous method to inefct and control PCs, people lacking technical experience were an easy target, anti-viruses were not that good also at this time, which made torjans like Sub7 gain a handfull of ground to launch DDos attacks , but what has changed making the situation now dangerous ?
+This kind of hacks is not new , it goes back to the dawn of internet, back then devices were not "smart" yet hence the attack was mainly on PCs, Trojans like [Sub7](https://en.wikipedia.org/wiki/Sub7) were a famous method to infect and control PCs, people lacking technical experience were an easy target, anti-viruses were not that good also at this time, which made Trojans like Sub7 gain a handful of ground to launch DDos attacks , but what has changed making the situation now dangerous ?
 
 
 ### Now everything is smart!
@@ -28,7 +28,7 @@ There are some factors which makes the IoT ecosystem catastrophic:
 - IoT vendors uses the same default easy-to-guess password on all their devices .
 
 
-These factors are the main contribuotrs making the whole situation a ticking bomb, but is it really that bad ? , what can hackers do with these IoT devices ?
+These factors are the main contributors making the whole situation a ticking bomb, but is it really that bad ? , what can hackers do with these IoT devices ?
 
 Well, a lot can be done, lets see some examples :
 
@@ -36,11 +36,11 @@ Well, a lot can be done, lets see some examples :
 ![Mirai_botnet in action]({{site.baseurl}}/images/Ct_01peWcAAb5m0.jpg)
 
 
-- SOCKS Proxies, hackers can use owend IoT devices to hack other machines online, so the attack will appear as if its coming from your home camera , hence your IP, and police will accuse you instead ! , once more the hacker can rent your devices to gain money .
+- SOCKS Proxies, hackers can use owned IoT devices to hack other machines online, so the attack will appear as if its coming from your home camera , hence your IP, and police will accuse you instead ! , once more the hacker can rent your devices to gain money .
 
 - spam campaigns , sending spam emails through your devices .
 
-- "smart" cars connected online, regardless driven or self-driving, cars can be hacked and stolen or even to kill on-board passangers, scary right ?!
+- "smart" cars connected online, regardless driven or self-driving, cars can be hacked and stolen or even to kill on-board passengers, scary right ?!
 
 - RansomWare hitting IoT devices, think of your "smart" heart pacemaker being hijacked by ransomware.
 
@@ -53,10 +53,10 @@ Bottom line we are building very powerful things - yet most of them are useless 
 
 ### So, can this situation be fixed
 
-Yes, but needs huge efforst from all parties , I will try to list some here :
+Yes, but needs huge efforts from all parties , I will try to list some here :
 
 **Governments:**
-- Establish policies and regulations for manufacturing, updating and importing IoT devices and their compnents.
+- Establish policies and regulations for manufacturing, updating and importing IoT devices and their components.
 - Enforce polices on IoT manufacturers .
 - Monitor and penalize non-adhering IoT manufacturers .
 
@@ -66,7 +66,7 @@ Yes, but needs huge efforst from all parties , I will try to list some here :
  
 **IoT Consumers:**
  - Only buy an IoT device from a manufacturer providing regular updates .
- - Check for username/password reset functionalty .
+ - Check for username/password reset functionality .
  - Check for the ability to disable telnet service.
  - Check for the ability to disable SSH service.
  - Check for the ability to change telnet/ssh port .
