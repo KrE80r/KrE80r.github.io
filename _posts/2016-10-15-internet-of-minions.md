@@ -90,6 +90,7 @@ Yes, but needs huge efforts from all parties , I will try to list some here :
  
  ### Further reads :
  
+ 
  [Security Economics of the Internet of Things](https://www.schneier.com/blog/archives/2016/10/security_econom_1.html)
  
  [Europe to Push New Security Rules Amid IoT Mess](https://krebsonsecurity.com/2016/10/europe-to-push-new-security-rules-amid-iot-mess/)
