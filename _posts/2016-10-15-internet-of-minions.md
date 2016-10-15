@@ -32,7 +32,7 @@ These factors are the main contribuotrs making the whole situation a ticking bom
 
 Well, a lot can be done, lets see some examples :
 
-- DDos doh!, specially with these high speed connection we all have now, IoT minions once owned by a hacker can be used for his own or even rented, DDos-as-a-service .
+- DDos doh!, specially with these high speed connection we all have now, IoT minions once owned by a hacker can be used for his own benefit or even rented as in DDos-as-a-service .
 ![Mirai_botnet in action]({{site.baseurl}}/images/Ct_01peWcAAb5m0.jpg)
 
 
@@ -40,7 +40,7 @@ Well, a lot can be done, lets see some examples :
 
 - spam campaigns , sending spam emails through your devices .
 
-- "smart" cars connected online, regardless driven or self-driving cars can be hacked and stolen or even to kill on-board passangers, scary right ?!
+- "smart" cars connected online, regardless driven or self-driving, cars can be hacked and stolen or even to kill on-board passangers, scary right ?!
 
 - RansomWare hitting IoT devices, think of your "smart" heart pacemaker being hijacked by ransomware.
 
