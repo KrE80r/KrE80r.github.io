@@ -31,7 +31,7 @@ These factors are the main contributors making the whole situation a ticking bom
 
 Well, a lot can be done, lets see some examples :
 
-- DDos doh!, specially with these high speed connection we all have now, IoT minions once owned by a hacker can be used for his own benefit or even rented as in DDos-as-a-service, below is an image of Mirai botnet in action .
+- DDos doh!, specially with these high speed connection we all have now, IoT minions once owned by a hacker can be used for his own benefit or even rented as in DDos-as-a-service, Mirai botnet in action:
 ![Mirai_botnet in action]({{site.baseurl}}/images/Ct_01peWcAAb5m0.jpg)
 
 
