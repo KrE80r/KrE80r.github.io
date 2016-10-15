@@ -12,7 +12,7 @@ This kind of hacks is not new , it goes back to the dawn of internet, back then 
 
 
 ### Now everything is smart!
-First what is these IoT devices ? , You know this "smart" TV, Tea kettle connected to your phone, door bell that shows you a video feed when someone knocks your door when you're not @ home and smart car etc... these are IoT devices .
+First what are these IoT devices ? , You know this "smart" TV, Tea kettle connected to your phone, "smart" door lock that shows you a video feed when someone knocks your door and "smart" cars etc... these are IoT devices .
 Gartner estimates a typical household could contain more than 500 IoT Devices by 2022 ,but do we really need all these shit !? frankly I think NO ! 
 
 There are some factors which makes the IoT ecosystem catastrophic:
@@ -29,11 +29,21 @@ There are some factors which makes the IoT ecosystem catastrophic:
 
 These factors are the main contribuotrs making the whole situation a ticking bomb, but is it really that bad ? , what can hackers do with these IoT devices ?
 
-Well, a lot can be done, lets begin with the soft stuff :
+Well, a lot can be done, lets see some examples :
 
 - DDos doh!, specially with these high speed connection we all have now, IoT minions once owned by a hacker can be used for his own or even rented, DDos-as-a-service .
 
 - SOCKS Proxies, hackers can use owend IoT devices to hack other machines online, so the attack will appear as if its coming from your home camera , hence your IP, and police will accuse you instead ! , once more the hacker can rent your devices to gain money .
 
-- 
+- spam campaigns , sending spam emails through your devices .
 
+- "smart" cars connected online, regardless driven or self-driving cars can be hacked and stolen or even to kill on-board passangers, scary right ?!
+
+- RansomWare hitting IoT devices, think your "smart" heart pacemaker being hijacked by ransomware.
+
+![CuFDEPXWAAAGuOe.jpg]({{site.baseurl}}/images/CuFDEPXWAAAGuOe.jpg)
+
+
+Bottom line we are building very powerful things - yet most of them are useless - without proper policies or regulations, and we are hoping for the worst scenario wont happen, **and it will happen** .
+
+---
