@@ -72,6 +72,7 @@ Yes, but needs huge efforst from all parties , I will try to list some here :
  - Check for the ability to change telnet/ssh port .
  - Only buy an IoT device with backup/restore functionality .
  
+ ---
  
  ### Further reads :
  
