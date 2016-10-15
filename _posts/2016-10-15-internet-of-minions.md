@@ -32,6 +32,8 @@ These factors are the main contribuotrs making the whole situation a ticking bom
 Well, a lot can be done, lets see some examples :
 
 - DDos doh!, specially with these high speed connection we all have now, IoT minions once owned by a hacker can be used for his own or even rented, DDos-as-a-service .
+![Mirai_botnet in action]({{site.baseurl}}/images/Ct_01peWcAAb5m0.jpg)
+
 
 - SOCKS Proxies, hackers can use owend IoT devices to hack other machines online, so the attack will appear as if its coming from your home camera , hence your IP, and police will accuse you instead ! , once more the hacker can rent your devices to gain money .
 
@@ -39,7 +41,7 @@ Well, a lot can be done, lets see some examples :
 
 - "smart" cars connected online, regardless driven or self-driving cars can be hacked and stolen or even to kill on-board passangers, scary right ?!
 
-- RansomWare hitting IoT devices, think your "smart" heart pacemaker being hijacked by ransomware.
+- RansomWare hitting IoT devices, think of your "smart" heart pacemaker being hijacked by ransomware.
 
 ![CuFDEPXWAAAGuOe.jpg]({{site.baseurl}}/images/CuFDEPXWAAAGuOe.jpg)
 
@@ -47,3 +49,20 @@ Well, a lot can be done, lets see some examples :
 Bottom line we are building very powerful things - yet most of them are useless - without proper policies or regulations, and we are hoping for the worst scenario wont happen, **and it will happen** .
 
 ---
+
+### So, can this situation be fixed
+
+Yes, but needs huge efforst from all parties , I will try to list some here :
+
+**Governments:**
+- Establish policies and regulations for manufacturing, updating and importing IoT devices and their compnents.
+- Enforce polices on IoT manufacturers .
+- Monitor and penalize non-adhering IoT manufacturers .
+
+ **IoT manufacturers:**
+ - Adhere to government regulations .
+ - Deliver constant updates ([OTA](https://en.wikipedia.org/wiki/Over-the-air_programming) style) to their devices throughout their lifetime .
+ 
+ **IoT Consumers:**
+ - Up
+ 
