@@ -31,9 +31,9 @@ These factors are the main contributors making the whole situation a ticking bom
 
 Well, a lot can be done, lets see some examples :
 
-- DDos doh!, specially with these high speed connection we all have now, IoT minions once owned by a hacker can be used for his own benefit or even rented as in DDos-as-a-service .
+- DDos doh!, specially with these high speed connection we all have now, IoT minions once owned by a hacker can be used for his own benefit or even rented as in DDos-as-a-service, below is an image of Mirai botnet in action .
 ![Mirai_botnet in action]({{site.baseurl}}/images/Ct_01peWcAAb5m0.jpg)
-[Mirai botnet in action]
+
 
 - SOCKS Proxies, hackers can use owned IoT devices to hack other machines online, so the attack will appear as if its coming from your home camera , hence your IP, and police will accuse you instead ! , once more the hacker can rent your devices to gain money .
 
