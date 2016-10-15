@@ -4,7 +4,7 @@ layout: post
 ---
    ![CuAcbo9WEAAt8Ly.jpg]({{site.baseurl}}/images/CuAcbo9WEAAt8Ly.jpg)
 
-AKA internet-of-shit, AKA internet-of-hacked-things. IoT has been in the spotlight for a while now after [two](https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/) [consecutive](https://www.ovh.com/us/news/articles/a2367.the-ddos-that-didnt-break-the-camels-vac) DDoS incidents where IoT devices were the source of the attack, just to state the problem is little bit older, many experts did warn about the situation, it started with a small impact, like a [fridge sending spam](http://www.bbc.com/news/technology-25780908) but now the situation is getting out of hand.
+**IoT**, AKA internet-of-shit, AKA internet-of-hacked-things. IoT has been in the spotlight for a while now after [two](https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/) [consecutive](https://www.ovh.com/us/news/articles/a2367.the-ddos-that-didnt-break-the-camels-vac) DDoS incidents where IoT devices were the source of the attack, just to state the problem is little bit older, many experts did warn about the situation, it started with a small impact, like a [fridge sending spam](http://www.bbc.com/news/technology-25780908) but now the situation is getting out of hand.
 
 ### A little bit of history
 This kind of hacks is not new , it goes back to the dawn of internet, back then devices were not "smart" yet hence the attack was mainly on PCs, Trojans like [Sub7](https://en.wikipedia.org/wiki/Sub7) were a famous method to infect and control PCs, people lacking technical experience were an easy target, anti-viruses were not that good also at this time, which made Trojans like Sub7 gain a handful of ground to launch DDos attacks , but what has changed making the situation now dangerous ?
@@ -33,7 +33,7 @@ Well, a lot can be done, lets see some examples :
 
 - DDos doh!, specially with these high speed connection we all have now, IoT minions once owned by a hacker can be used for his own benefit or even rented as in DDos-as-a-service .
 ![Mirai_botnet in action]({{site.baseurl}}/images/Ct_01peWcAAb5m0.jpg)
-
+[Mirai botnet in action]
 
 - SOCKS Proxies, hackers can use owned IoT devices to hack other machines online, so the attack will appear as if its coming from your home camera , hence your IP, and police will accuse you instead ! , once more the hacker can rent your devices to gain money .
 
@@ -78,4 +78,3 @@ Yes, but needs huge efforts from all parties , I will try to list some here :
  [Security Economics of the Internet of Things](https://www.schneier.com/blog/archives/2016/10/security_econom_1.html)
  
  [Europe to Push New Security Rules Amid IoT Mess](https://krebsonsecurity.com/2016/10/europe-to-push-new-security-rules-amid-iot-mess/)
- 
