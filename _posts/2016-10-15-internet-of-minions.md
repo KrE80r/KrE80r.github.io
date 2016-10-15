@@ -84,11 +84,14 @@ Yes, but needs huge efforts from all parties , I will try to list some here :
  
  - Only buy an IoT device with backup/restore functionality .
  
+
+**General:**
+
+- Throttle down IoT devices connection speed ?
  
- ---
+---
  
- 
- ### Further reads :
+### Further reads :
  
  
  [Security Economics of the Internet of Things](https://www.schneier.com/blog/archives/2016/10/security_econom_1.html)
