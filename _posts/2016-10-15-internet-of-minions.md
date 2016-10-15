@@ -60,11 +60,11 @@ Yes, but needs huge efforst from all parties , I will try to list some here :
 - Enforce polices on IoT manufacturers .
 - Monitor and penalize non-adhering IoT manufacturers .
 
- **IoT manufacturers:**
+**IoT manufacturers:**
  - Adhere to government regulations .
  - Deliver constant updates ([OTA](https://en.wikipedia.org/wiki/Over-the-air_programming) style) to their devices throughout their lifetime .
  
- **IoT Consumers:**
+**IoT Consumers:**
  - Only buy an IoT device from a manufacturer providing regular updates .
  - Check for username/password reset functionalty .
  - Check for the ability to disable telnet service.
@@ -76,5 +76,6 @@ Yes, but needs huge efforst from all parties , I will try to list some here :
  ### Further reads :
  
  [Security Economics of the Internet of Things](https://www.schneier.com/blog/archives/2016/10/security_econom_1.html)
+ 
  [Europe to Push New Security Rules Amid IoT Mess](https://krebsonsecurity.com/2016/10/europe-to-push-new-security-rules-amid-iot-mess/)
  
