@@ -88,8 +88,16 @@ Yes, but needs huge efforts from all parties , I will try to list some here :
 **General:**
 
 - Throttle down IoT devices connection speed ?
- 
+
+
 ---
+
+
+### Final thoughts :
+
+While many IoT devices improves our lives in a good way , yet the current situation is catastrophic and must be handled with urgency before it gets worse, additionally, many IoT devices leads to dehumanizing our human relations, do we really need to automate our lives that far ?
+ 
+
  
 ### Further reads :
  
