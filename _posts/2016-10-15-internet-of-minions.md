@@ -67,7 +67,7 @@ Yes, but needs huge efforts from all parties , I will try to list some here :
 
  - Adhere to government regulations .
  
- - Deliver secured constant updates ([OTA](https://en.wikipedia.org/wiki/Over-the-air_programming) style) to their devices throughout their lifetime .
+ - Deliver secured constant updates ([OTA](https://en.wikipedia.org/wiki/Over-the-air_programming) style) to their devices throughout their lifetime.
  
  
  **ISPs:**
