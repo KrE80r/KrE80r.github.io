@@ -70,9 +70,11 @@ Yes, but needs huge efforts from all parties , I will try to list some here :
  - Deliver secured constant updates ([OTA](https://en.wikipedia.org/wiki/Over-the-air_programming) style) to their devices throughout their lifetime.
  
  
+ 
  **ISPs:**
  
  - Implement [BCP 38 Network Ingress Filtering](https://tools.ietf.org/html/bcp38)
+ 
  
  
 **IoT Consumers:**
@@ -88,6 +90,7 @@ Yes, but needs huge efforts from all parties , I will try to list some here :
  - Check for the ability to change telnet/ssh port .
  
  - Only buy an IoT device with backup/restore functionality .
+ 
  
 
 **General:**
