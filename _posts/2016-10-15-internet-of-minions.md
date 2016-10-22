@@ -74,6 +74,7 @@ Yes, but needs huge efforts from all parties , I will try to list some here :
  **ISPs:**
  
  - Implement [BCP 38 Network Ingress Filtering](https://tools.ietf.org/html/bcp38)
+ - Actively handle customers with exploited IoT devices, like downgrading their speeds, terminate their connection etc.. .
  
  
  
